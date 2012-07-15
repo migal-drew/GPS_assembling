@@ -1,0 +1,3 @@
+Code for initial photos orientation using GPS information
+Structure of telemetry information:
+file_name, latitude, longitude, altitude, azimuth
